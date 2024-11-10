@@ -1,0 +1,8 @@
+fastapi
+sklearn
+pandas
+numpy
+matplotlib
+gunicorn
+pickle5
+uvicorn
